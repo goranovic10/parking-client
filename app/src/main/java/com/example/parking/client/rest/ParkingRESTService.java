@@ -1,6 +1,5 @@
 package com.example.parking.client.rest;
 
-import com.example.parking.client.dto.DistanceMatrixDTO;
 import com.example.parking.client.dto.ParkingDTO;
 
 import java.util.List;

@@ -77,7 +77,7 @@ public class RowAdapter extends BaseAdapter {
               if (isChecked) {
                 dbHandler.insert(holder.uName.getText().toString());
               } else {
-                dbHandler.delete(holder.uName.getText().toString());
+                dbHandler. delete(holder.uName.getText().toString());
               }
             });
     return v;
